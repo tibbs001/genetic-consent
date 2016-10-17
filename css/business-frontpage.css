@@ -32,12 +32,8 @@ body {
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
-.left-column_header {
-    background: url('../images/genetics2.png');
-}
-
 .business-header {
-    height: 140px;
+    height: 120px;
     background: url('../images/header2.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
